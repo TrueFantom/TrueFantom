@@ -1,6 +1,4 @@
-# Fantom
-Scratch 3 Custom Extension
-
+# Fantom - Scratch 3 Custom Extension
 URL for manual addition (Basic & Recommended) - https://Fantom-Z.github.io/Fantom.js
 
 URL for TurboWarp test (Recommended) - https://turbowarp.org/editor?extension=https%3A%2F%2FFantom-Z.github.io%2FFantom.js
