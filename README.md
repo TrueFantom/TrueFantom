@@ -1,4 +1,6 @@
-# Fantom - Scratch 3 Custom Extension
+# Fantom
+
+# Scratch 3 Custom Extension
 
 URL for manual addition (Basic & Recommended) - https://Fantom-408.github.io/Fantom.js
 
